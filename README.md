@@ -4,17 +4,14 @@
 
 ## Capturas de Pantalla
 
-![Pantalla de Inicio de Sesión](assets/.png)
-*Pantalla de Inicio de Sesión*
-
-![Pantalla Principal](screenshots/home_screen.png)
-*Pantalla Principal*
+![Pantalla de Inicio de Sesión](assets/Captura desde 2024-02-13 19-59-50.png)
+*Pantalla de Inicio de Sesión y principal*
 
 ## Ejecutar la Aplicación
 
 1. **Clonar el Repositorio:**
 ```
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/adrianrochacon10/said.git
 ```
 
 2. **Instalar Dependencias:**
