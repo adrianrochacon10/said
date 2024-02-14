@@ -4,7 +4,7 @@
 
 ## Capturas de Pantalla
 
-![Pantalla de Inicio de Sesión](screenshots/login_screen.png)
+![Pantalla de Inicio de Sesión](assets/.png)
 *Pantalla de Inicio de Sesión*
 
 ![Pantalla Principal](screenshots/home_screen.png)
